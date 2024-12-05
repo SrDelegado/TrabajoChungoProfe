@@ -1,0 +1,13 @@
+Proyecto: Sistema de Gestión de Exámenes  
+
+Propósito: 
+Este proyecto tiene como objetivo principal simplificar y automatizar el proceso de gestión de exámenes. Está diseñado para ser utilizado por estudiantes y profesores, permitiendo crear, almacenar y acceder fácilmente a información sobre tareas, evaluaciones y calificaciones. Con una interfaz intuitiva y funcionalidades bien organizadas, este sistema busca optimizar el tiempo y esfuerzo dedicados a la administración educativa.  
+
+Implementación:  
+El proyecto se ha desarrollado utilizando las siguientes herramientas y tecnologías:  
+- Lenguaje de programación: Java  
+- Control de versiones: Git, con integración a GitHub para facilitar la colaboración y el trabajo en equipo.  
+- Editor:** GNU Nano para edición de texto, y Eclipse IDE como entorno de desarrollo integrado.  
+- Estructura del código: Se organizaron diferentes ramas de trabajo (`Conectar`, `Contar`, `Salir`, `Visualizar`) que fueron fusionadas cuidadosamente en la rama principal para garantizar la integración sin conflictos.  
+- Descripción adicional: Este proyecto también incluye documentación detallada en el archivo actual para guiar a los colaboradores y futuros usuarios en su uso.  
+
